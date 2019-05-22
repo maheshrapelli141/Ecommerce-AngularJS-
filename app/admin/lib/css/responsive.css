@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+    .navbar-sidenav{
+        left: -220px;
+    }
+    .sidenav_close {
+        left: 0px;
+    }
+    .body_section_shrink {
+        margin-left: 30px;
+    }
+    .body_section_full {
+        margin-left: 250px;
+    }
+}
